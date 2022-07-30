@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ConsoleTableText_BlackDog"
+version = "1.0.0"
+authors = [
+  { name="BlackDog", email="amalia.c.camalia@gmail.com" },
+]
+description = "Console Table Test is a Python package that will help you output messages to the console in a console with adaptive message length change"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Blackdog7777/ConsoleTableText"
+"Bug Tracker" = "https://github.com/Blackdog7777/ConsoleTableText/issues"
