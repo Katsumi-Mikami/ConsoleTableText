@@ -1,5 +1,4 @@
 # ConsoleTableText
-<hr>
 <h2>RUS:</h2>
 <p>ConsoleTableText - это пакет для Python, который поможет вам выводить сообщения в консоль в рамках с адаптивным изменением длины сообщение. Так же длину сообщениня можно установить в ручную.</p>
 <h3>В последнем обновлении:</h3>
@@ -22,7 +21,6 @@
 
 
 <h2>ENG:</h2>
-<hr>
 
 <p>Console Table Test is a Python package that will help you output messages to the console in a console with adaptive message length change. The message length can also be set manually.</p>
 <h3>In the latest update:</h3>
@@ -40,7 +38,6 @@ Added support for changing the appearance of text from Python
 <h4>Latest version: v. 1.0.0</h4>
 
 <h2>Code Example \ Пример кода:</h2>
-<hr>
 
 <code style="border-radius: 0; margin: 0; padding: 3px">
 import ConsoleTableText<br>
