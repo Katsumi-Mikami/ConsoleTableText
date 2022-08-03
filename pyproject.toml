@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "ConsoleTableText_BlackDog"
-version = "1.0.0"
+name = "ConsoleTableText"
+version = "1.0.1"
 authors = [
   { name="BlackDog", email="amalia.c.camalia@gmail.com" },
 ]
@@ -14,7 +14,7 @@ license = { file="LICENSE" }
 requires-python = ">=3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: GNU License",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
