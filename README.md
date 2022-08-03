@@ -40,7 +40,7 @@ Optimized the operation of the program
 <h2>Code Example \ Пример кода:</h2>
 
 <code style="border-radius: 0; margin: 0; padding: 3px">
-import ConsoleTableText<br>
+import consoletabletext<br>
 ConsoleTableText.edit(NewTypeMessageSize="set", NewMessageSize=35, NewBorderStyle=["# ", "!", "-", "."])<br>
 ConsoleTableText.line(["Console Table Text Example", "-border-", "\033[1mSome Text\033[0m", "\033[1mKey-value\033[0m -value- \033[94mText Example\033[0m"], textAlign=["center", "left"])
 </code>
