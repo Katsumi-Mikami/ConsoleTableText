@@ -4,16 +4,13 @@
 <h3>В последнем обновлении:</h3>
 <ul>
 <li>
-Исправлены некоторые ошибка работы с библиотекой
-</li>
-<li>
-Оптимизирована работа программы
+Небольшое исправления работы с пользователем
 </li>
 </ul>
 
-[Github-репозиторий](https://example.com/)
+[Github-репозиторий](https://github.com/Blackdog7777/ConsoleTableText)
 
-<h4>Последняя версия: v. 1.0.1</h4>
+<h4>Последняя версия: v. 1.0.2</h4>
 
 <br>
 <br>
@@ -26,21 +23,18 @@
 <h3>In the latest update:</h3>
 <ul>
 <li>
-Fixed some errors with the library
-</li>
-<li>
-Optimized the operation of the program
+Small user-usage fixes
 </li>
 </ul>
 
-[Github-repository](https://example.com/)
+[Github-repository](https://github.com/Blackdog7777/ConsoleTableText)
 
-<h4>Latest version: v. 1.0.1</h4>
+<h4>Latest version: v. 1.0.2</h4>
 
 <h2>Code Example \ Пример кода:</h2>
 
 <code style="border-radius: 0; margin: 0; padding: 3px">
-import consoletabletext<br>
+from consoletabletext import edit, line<br>
 ConsoleTableText.edit(NewTypeMessageSize="set", NewMessageSize=35, NewBorderStyle=["# ", "!", "-", "."])<br>
 ConsoleTableText.line(["Console Table Text Example", "-border-", "\033[1mSome Text\033[0m", "\033[1mKey-value\033[0m -value- \033[94mText Example\033[0m"], textAlign=["center", "left"])
 </code>
